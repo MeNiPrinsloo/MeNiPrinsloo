@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**MeNiPrinsloo/MeNiPrinsloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Melissa (MeNi)! 👋💚
 
-Here are some ideas to get you started:
+### Software Engineering Student | WGU
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently pursuing my B.S. in Software Engineering at Western Governors University and learning Python.
+
+I enjoy solving problems, exploring technology, and finding creative ways to turn ideas into practical solutions.
+
+This GitHub is where I'll document my progress, share projects, and continue developing my skills.
+
+### 🌱 Currently Learning
+- Python programming
+- Programming fundamentals and problem-solving
+- Git and GitHub
+
+### 💻 My Interests
+- Software Development
+- Automation
+- Building practical applications
+- Technology and continuous learning
+
+### 🎯 My Goals
+Build a strong foundation in software engineering, develop meaningful projects, and continue growing personally and professionally.
+
+### 🔗 Let's Connect
+[My Links](https://linktr.ee/meni.prinsloo)
+
+---
+
+💚 Learning, building, and growing — one commit at a time.
